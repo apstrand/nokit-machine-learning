@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nokit-machine-learning"
+  site-url: "https://apstrand.github.io/nokit-machine-learning"
+  description: "Machine learning from scratch"
+  repo-branch: master
+  repo-url: "https://github.com/apstrand/nokit-machine-learning"
